@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @DanielleRungi
+- 👋 Hi, I’m @Daniella Murungi
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning
 
 <!---
 DanielleRungi/DanielleRungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
